@@ -1,1 +1,3 @@
-v1.0. Website working with css fully functional
+v1.0. Website working with css fully functional.
+v2.0. Website layout complete and images working.
+v3.0. Website images ready. Website fully functional and ready
